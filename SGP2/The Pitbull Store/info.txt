@@ -1,0 +1,13 @@
+Home 			Kalpesh				Done			
+Shop			Jayraj
+Services		Jayraj
+Contact			Kalpesh				Dome					
+Subscriptions 	Jayraj	
+About 			Shubhang			Done
+Blog			Shubhang			Done
+Translation		All	
+Login			Kalpesh				Done
+Signup			Kalpesh				Done
+User 			Kalpesh				Done										
+Vaccination		Jayraj	
+Payment 		Kalpesh				Done															

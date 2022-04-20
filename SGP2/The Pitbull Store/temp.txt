@@ -1,0 +1,206 @@
+<!-- plan section starts  -->
+
+<section class="plan" id="plan">
+
+    <h1 class="heading"> choose a <span>plan</span> </h1>
+
+    <div class="box-container">
+
+        <div class="box">
+            <h3 class="title">pet care</h3>
+            <h3 class="day"> 1 day </h3>
+            <i class="fas fa-bicycle icon"></i>
+            <div class="list">
+                <p> pet room <span class="fas fa-check"></span> </p>
+                <p> pet grooming <span class="fas fa-check"></span> </p>
+                <p> pet exercise <span class="fas fa-check"></span> </p>
+                <p> pet meals <span class="fas fa-check"></span> </p>
+            </div>
+            <div class="amount"><span>$</span>50</div>
+            <a href="#" class="btn"> choose plan </a>
+        </div>
+
+        <div class="box">
+            <h3 class="title">pet care</h3>
+            <h3 class="day"> 10 days </h3>
+            <i class="fas fa-motorcycle icon"></i>
+            <div class="list">
+                <p> pet room <span class="fas fa-check"></span> </p>
+                <p> pet grooming <span class="fas fa-check"></span> </p>
+                <p> pet exercise <span class="fas fa-check"></span> </p>
+                <p> pet meals <span class="fas fa-check"></span> </p>
+            </div>
+            <div class="amount"><span>$</span>350</div>
+            <a href="#" class="btn"> choose plan </a>
+        </div>
+
+        <div class="box">
+            <h3 class="title">pet care</h3>
+            <h3 class="day"> 30 days </h3>
+            <i class="fas fa-car-side icon"></i>
+            <div class="list">
+                <p> pet room <span class="fas fa-check"></span> </p>
+                <p> pet grooming <span class="fas fa-check"></span> </p>
+                <p> pet exercise <span class="fas fa-check"></span> </p>
+                <p> pet meals <span class="fas fa-check"></span> </p>
+            </div>
+            <div class="amount"><span>$</span>650</div>
+            <a href="#" class="btn"> choose plan </a>
+        </div>
+
+    </div>
+
+</section>
+
+<!-- plan section ends -->
+
+
+<section class="contact" id="contact">
+
+    <div class="image">
+        <img src="image/contact_img.png" alt="">
+    </div>
+
+    <form action="">
+        <h3>contact us</h3>
+        <input type="text" placeholder="your name" class="box">
+        <input type="email" placeholder="your email" class="box">
+        <input type="tumber" placeholder="your number" class="box">
+        <textarea name="" placeholder="your message" id="" cols="30" rows="10"></textarea>
+        <input type="submit" value="send message" class="btn">
+    </form>
+
+</section>
+
+
+<!-- shop section starts  -->
+
+<section class="shop" id="shop">
+
+    <h1 class="heading"> our <span> products </span> </h1>
+
+    <div class="box-container">
+
+        <div class="box">
+            <div class="icons">
+                <a href="#" class="fas fa-shopping-cart"></a>
+                <a href="#" class="fas fa-heart"></a>
+                <a href="#" class="fas fa-eye"></a>
+            </div>
+            <div class="image">
+                <img src="image/product_01.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>air-dried food</h3>
+                <div class="amount"> $15.00 - $30.00 </div>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="icons">
+                <a href="#" class="fas fa-shopping-cart"></a>
+                <a href="#" class="fas fa-heart"></a>
+                <a href="#" class="fas fa-eye"></a>
+            </div>
+            <div class="image">
+                <img src="image/product_02.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>air-dried food</h3>
+                <div class="amount"> $15.00 - $30.00 </div>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="icons">
+                <a href="#" class="fas fa-shopping-cart"></a>
+                <a href="#" class="fas fa-heart"></a>
+                <a href="#" class="fas fa-eye"></a>
+            </div>
+            <div class="image">
+                <img src="image/product_03.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>air-dried food</h3>
+                <div class="amount"> $15.00 - $30.00 </div>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="icons">
+                <a href="#" class="fas fa-shopping-cart"></a>
+                <a href="#" class="fas fa-heart"></a>
+                <a href="#" class="fas fa-eye"></a>
+            </div>
+            <div class="image">
+                <img src="image/product_04.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>air-dried food</h3>
+                <div class="amount"> $15.00 - $30.00 </div>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="icons">
+                <a href="#" class="fas fa-shopping-cart"></a>
+                <a href="#" class="fas fa-heart"></a>
+                <a href="#" class="fas fa-eye"></a>
+            </div>
+            <div class="image">
+                <img src="image/product_05.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>air-dried food</h3>
+                <div class="amount"> $15.00 - $30.00 </div>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="icons">
+                <a href="#" class="fas fa-shopping-cart"></a>
+                <a href="#" class="fas fa-heart"></a>
+                <a href="#" class="fas fa-eye"></a>
+            </div>
+            <div class="image">
+                <img src="image/product_06.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>air-dried food</h3>
+                <div class="amount"> $15.00 - $30.00 </div>
+            </div>
+        </div>
+        <div class="box">
+            <div class="icons">
+                <a href="#" class="fas fa-shopping-cart"></a>
+                <a href="#" class="fas fa-heart"></a>
+                <a href="#" class="fas fa-eye"></a>
+            </div>
+            <div class="image">
+                <img src="image/product_01.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>air-dried food</h3>
+                <div class="amount"> $15.00 - $30.00 </div>
+            </div>
+        </div>
+        <div class="box">
+            <div class="icons">
+                <a href="#" class="fas fa-shopping-cart"></a>
+                <a href="#" class="fas fa-heart"></a>
+                <a href="#" class="fas fa-eye"></a>
+            </div>
+            <div class="image">
+                <img src="image/product_01.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>air-dried food</h3>
+                <div class="amount"> $15.00 - $30.00 </div>
+            </div>
+        </div>
+
+    </div>
+
+</section>
+
+<!-- shop section ends -->

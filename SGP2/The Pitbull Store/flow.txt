@@ -1,0 +1,14 @@
+Login
+Signup 		Create account
+Login
+Home  		Info
+Usrinfo		Info
+Shop		Payment.php
+Services	Info  newsletter type
+Blog   		Info
+About		Info/Translation
+Contact Us  Form Fill
+Logout
+End
+
+
